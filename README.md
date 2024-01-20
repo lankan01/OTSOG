@@ -1,8 +1,7 @@
 # OTSOG
-On The Shoulders Of Giants
+Welcome to my repository dedicated to the exploration and analysis of some of my favourite startups.
 
-# Overview
-Welcome to my repository dedicated to the exploration and analysis of successful startups. This project is born from my passion for understanding the intricate details that contribute to the triumph of these innovative companies.
+This project is rooted in the idea of leveraging existing successes instead of constantly trying to reinvent the wheel. I believe that there are many lessons to be learned, both positive and negative, by examining the successes and failures of leading products in the market, hence the name - OTSOG - On The Shoulders Of Giants.
 
 ## What's Inside
 In this collection, you will find comprehensive documents covering various dimensions of startup success, such as:
